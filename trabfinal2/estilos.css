@@ -1,0 +1,35 @@
+div a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+  }
+
+
+  body {
+    font-family: fonte;
+      background-image: url(./background.png);
+      background-size: 100%;
+      background-repeat: repeat;  
+  }
+
+  #bemvindo {
+    color: rgba(58, 130, 225, 0.89);
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+
+  #inicial{
+    color: #FFF;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
